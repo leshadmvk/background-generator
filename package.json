@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "css code generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leshadmvk/background-generator.git"
+  },
+  "keywords": [
+    "gradient"
+  ],
+  "author": "andrei neagoie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshadmvk/background-generator/issues"
+  },
+  "homepage": "https://github.com/leshadmvk/background-generator#readme"
+}
