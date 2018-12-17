@@ -4,7 +4,8 @@
   "description": "css code generator",
   "main": "script.js",
   "scripts": {
-    "build": "browserify script.js > bundle.js"
+    "build": "browserify script.js > bundle.js && live-server",
+    "git-upload": "git add . && git commit -m'automatic npm upload' && git push && leshadmvk && 1569798Lesha"
   },
   "repository": {
     "type": "git",
